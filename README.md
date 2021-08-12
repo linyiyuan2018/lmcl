@@ -1,5 +1,5 @@
 # lmcl
-lin8 minecraft laucher
+lin8 minecraft luncher
 
 ## 什么是LMCL
 #### LMCL是基于易语言开发的轻量级我的世界启动器,且持续更新
