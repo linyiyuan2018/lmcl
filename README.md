@@ -1,4 +1,4 @@
-此存储库已弃用，最新库 http://git.xianyuyun.xyz/xianyuyun/mcsafeing
+此存储库已弃用，最新库 http://git.xianyuyun.xyz/xianyuyun/lmcl
 # lmcl
 lin8 minecraft launcher
 
